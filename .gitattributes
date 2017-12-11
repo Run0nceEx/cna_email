@@ -1,1 +1,3 @@
 *.cna linguist-language=aggressor-scripts
+*.jar linguist-language=aggressor-scripts
+*.java  linguist-language=aggressor-scripts
